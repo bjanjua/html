@@ -1,1 +1,1 @@
-# html Practice for COding Dojo
+# HTML Practice for Coding Dojo
